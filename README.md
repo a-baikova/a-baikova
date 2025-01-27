@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @a-baikova
-- 🌱 I’m currently learning Python and intend to learn more back-end programming languages!
+- 🌱 I’m a Data Science student at ISCTE
 
 <!---
 a-baikova/a-baikova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
