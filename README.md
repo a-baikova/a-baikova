@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left"> 👋 Hi, I'm Alice Baikova  <br><br>🎓 Political Science Graduate** turned Data Science Enthusiast**  <br>📚 Currently pursuing a Master's in Data Science at ISCTE Business School</p>
+<p align="left"> 👋 Hi, I'm Alice Baikova  <br><br>🎓 Political Science Graduate turned Data Science Enthusiast  <br>📚 Currently pursuing a Master's in Data Science at ISCTE Business School</p>
 
 ###
